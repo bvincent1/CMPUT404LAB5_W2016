@@ -1,3 +1,23 @@
+/*
 a {
-    color: rgb(255, 0, 0);
+    color: #90a4ae;
 }
+
+nav {
+	background-color: #1a237e;
+}
+
+body {
+	background-color: #37474f;
+	color: #cfd8dc;
+	font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+#logo {
+	
+}
+
+.navtext {
+	color: #90caf9;
+}
+*/
